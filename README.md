@@ -1,4 +1,10 @@
-### Hi there 👋
+# Annyeong!
+## 🌏(World, Earth), 🇰🇷(Korea), 🕵(Detective), 🎲(Dice), ♟(Chess Pawn)
+**_My Tags..._**
+- Student📔
+- Game Designer🪁
+- Stargazer🤩
+- Thinker(Maybe)🤔
 
 <!--
 **RyanKim06/RyanKim06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
